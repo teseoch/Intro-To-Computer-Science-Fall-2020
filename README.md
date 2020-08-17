@@ -8,14 +8,12 @@ Phone: 1 (212) 998-3280<br>
 E-mail: [teseo.schneider@nyu.edu](mailto:teseo.schneider@nyu.edu)<br>
 URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
-**Office Hours**: Thursdays, 2:30pm-3:30pm 60 5th Ave, 5th Floor, Office 524<br>
+**Office Hours**: Mondays and Wednesday, 9:30am-10:45am (EST) by appointment (Silv 520)<br>
 **Tutoring**:
 TBA
 
 ### Lectures:
-Tuesdays and Thursdays at 3:30pm - 4:45pm<br>
-Washington Square CIWW
-room 101
+Tuesdays and Thursdays at 3:30pm - 4:45pm (EST) Live Online
 
 
 ### Final exam
@@ -46,31 +44,29 @@ How to design algorithms to solve problems and how to translate these algorithms
 ### Prerequisites
 Introduction to Computer Programming (CSCI-UA 2) or departmental permission assessed by placement exam.
 
-
-
 ## Material
 
 ### Misc
 
-<!-- - [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-- [Getting started](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/material/getting_started.pdf)
-- [Eclipse](https://www.eclipse.org/)
-- [Getting started Processing](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/material/getting_started_processing.pdf)
-- [Core.jar](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/blob/master/material/core.jar.zip?raw=true)
+- [Java SDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+- [Getting started](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/material/getting_started.pdf)
+<!-- - [Eclipse](https://www.eclipse.org/)
+- [Getting started Processing](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/material/getting_started_processing.pdf)
+- [Core.jar](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/blob/master/material/core.jar.zip?raw=true)
 - [Processing](https://processing.org/) -->
 
 ### Slides
- <!-- - [Welcome](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture1-welcome.pdf)
-[Introduction](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture2-intro.pdf)
-- [Mathematical functions, characters, strings, looping](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture3-math.pdf)
-- [Methods](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture4-methods.pdf)
-- [Single dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture5-arrays.pdf)
-- [Two dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture6-ndarrays.pdf)
-- [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture7-objects.pdf)
-- [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture8-thinkingoo.pdf)
-- [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture9-polymorphism.pdf)
-- [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture10-interfaces.pdf)
-- [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2020/raw/master/slides/lecture11-exception-IO.pdf) -->
+ <!-- - [Welcome](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture1-welcome.pdf)
+[Introduction](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture2-intro.pdf)
+- [Mathematical functions, characters, strings, looping](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture3-math.pdf)
+- [Methods](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture4-methods.pdf)
+- [Single dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture5-arrays.pdf)
+- [Two dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture6-ndarrays.pdf)
+- [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture7-objects.pdf)
+- [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture8-thinkingoo.pdf)
+- [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture9-polymorphism.pdf)
+- [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture10-interfaces.pdf)
+- [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture11-exception-IO.pdf) -->
 
 
 ## Schedule and Course Notes:
