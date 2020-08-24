@@ -9,7 +9,7 @@ E-mail: [teseo.schneider@nyu.edu](mailto:teseo.schneider@nyu.edu)<br>
 URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
 **Office Hours**: Mondays and Wednesday, 9:30am-10:45am (EST) by appointment (Silv 520)<br>
-**Tutoring**:
+**Tutoring**:<br>
 [Online](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/material/tutoring-oline.pdf)<br/>
 [In person](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/material/tutorial-in-person.pdf)
 
