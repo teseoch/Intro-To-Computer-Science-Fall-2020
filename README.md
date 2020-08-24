@@ -10,7 +10,8 @@ URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
 **Office Hours**: Mondays and Wednesday, 9:30am-10:45am (EST) by appointment (Silv 520)<br>
 **Tutoring**:
-TBA
+[Online](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/material/tutoring-oline.pdf)<br/>
+[In person](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/material/tutorial-in-person.pdf)
 
 ### Lectures:
 Tuesdays and Thursdays at 3:30pm - 4:45pm (EST) Live Online
@@ -30,10 +31,9 @@ TBA
 
 ### Grading
  - Assignments: 10% (late assignments count 70%)
- - Project: 10%
- - In class participation: 5%
- - Midterms: 20% each
- - Final: 35%
+ - Projects: 30% each
+ - Midterm: 10% each
+ - Final: 20%
 
 ## Course Description
 
@@ -84,20 +84,20 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 05 | 09/22/2020 | Single dimensional arrays | 7 | |
 | 06 | 09/24/2020 | Two dimensional arrays | 8 | |
 |    | 09/29/2020 | Hands on | | |
-|    | 10/01/2020 | Midterm 1 review | 1-8 | |
-|    | 10/06/2020 | Midterm 1 |  | |
+|    | 10/01/2020 | Project 1 kickoff |  | |
+|    | 10/06/2020 | Overivew | 1-8 | |
 
 ### Part 2: Object oriented programming and design
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
 | 07 | 10/08/2020 | Objects and classes | 9 | |
 | 08 | 10/05/2020 | Objects and classes | 9 | |
-|    | 10/13/2020 | Midterm discussion | | |
+|    | 10/13/2020 | Project 1 discussion | | |
 |    | 10/15/2020 | Hands on |  |  |
-| 09 | 10/20/2020 | Object oriented thinking | 10 | |
-| 10 | 10/22/2020 | Object oriented thinking | 10 | |
-|    | 10/27/2020 | Midterm 2 review | 1-10 | |
-|    | 10/29/2020 | Midterm 2 | | |
+|    | 10/20/2020 | Midterm review | 1-10 | |
+|    | 10/22/2020 | Midterm | | |
+| 09 | 10/27/2020 | Object oriented thinking | 10 | |
+| 10 | 10/29/2020 | Object oriented thinking | 10 | |
 
 ### Part 3: Advanced concepts
 
