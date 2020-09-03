@@ -10,6 +10,8 @@ URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
 **Office Hours**: Mondays and Wednesday, 9:30am-10:45am (EST) by appointment (Silv 520)<br>
 **Tutoring**:<br>
+[First 2 weeks](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/material/tutoring-start.pdf)<br/>
+
 [Online](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/material/tutoring-oline.pdf)<br/>
 [In person](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/material/tutorial-in-person.pdf)
 
@@ -56,8 +58,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Processing](https://processing.org/) -->
 
 ### Slides
- <!-- - [Welcome](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture1-welcome.pdf)
-[Introduction](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture2-intro.pdf)
+ - [Welcome](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture1-welcome.pdf)
+<!-- [Introduction](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture2-intro.pdf)
 - [Mathematical functions, characters, strings, looping](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture3-math.pdf)
 - [Methods](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture4-methods.pdf)
 - [Single dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture5-arrays.pdf)
@@ -76,7 +78,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 ### Part 1: Fundamentals of Programming
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-| 01 | 09/03/2020 | Introduction to computers, programs and Java, command line basics | 1 | |
+| 01 | 09/03/2020 | Introduction to computers, programs and Java, command line basics | 1 | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture1-welcome.pdf) |
 | 02 | 09/08/2020 | Primitive data types, program structure, control flow, input/output| 2-3 | |
 | 03 | 09/10/2020 | Mathematical functions, characters, strings, looping| 4-5 | |
 |    | 09/15/2020 | Hands on | | |
@@ -123,3 +125,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 | Number | Date | Due date| link |
 |----|----|----|----|
+| 0  | 09/03/2020 | 09/08/2020 | [Assignment 0](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Assignment0.pdf) |
