@@ -8,7 +8,7 @@ Phone: 1 (212) 998-3280<br>
 E-mail: [teseo.schneider@nyu.edu](mailto:teseo.schneider@nyu.edu)<br>
 URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
-**Office Hours**: Mondays and Wednesday, 9:30am-10:45am (EST) by appointment (Silv 520)<br>
+**Office Hours**: by appointment<br>
 **Tutoring**:<br>
 
 [Online](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/material/tutoring-oline.pdf)<br/>
@@ -119,9 +119,10 @@ The course schedule is tentative and *will* be adjusted along the way.
 ## Hands on activities
 | Number | Date | Material |
 |----|----|----|
+| 1  | 09/15/2020| [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/handson1.pdf) [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/material/MCPi.java) |
+
 
 ## Assignments
-
 | Number | Date | Due date| link |
 |----|----|----|----|
 | 0  | 09/03/2020 | 09/08/2020 | [Assignment 0](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Assignment0.pdf) |
