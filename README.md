@@ -119,7 +119,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 ## Hands on activities
 | Number | Date | Material |
 |----|----|----|
-| 1  | 09/15/2020| [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/handson1.pdf) [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/material/MCPi.java) |
+| 1  | 09/15/2020| [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/handson1.pdf) [MCPi](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/material/MCPi.java) |
 
 
 ## Assignments
