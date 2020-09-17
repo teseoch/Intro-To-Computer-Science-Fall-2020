@@ -127,4 +127,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 |----|----|----|----|
 | 0  | 09/03/2020 | 09/08/2020 | [Assignment 0](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Assignment0.pdf) |
 | 1  | 09/10/2020 | 09/15/2020 | [Assignment 1](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Assignment1.pdf) |
-| 2  | 09/17/2020 | 09/22/2020 | [Assignment 2](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Assignment2.pdf) |
+| 2  | 09/17/2020 | 09/22/2020 | [Assignment 2](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Assignment2.pdf) [ASCII Art](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2020/master/assignment/Assignment2.txt) |
