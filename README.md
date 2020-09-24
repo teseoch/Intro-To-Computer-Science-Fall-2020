@@ -60,10 +60,10 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
  - [Welcome](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture1-welcome.pdf)
 - [Introduction](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture2-intro.pdf)
  - [Mathematical functions, characters, strings, looping](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture3-math.pdf)
--- [Methods](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture4-methods.pdf)
-<!-- [Single dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture5-arrays.pdf)
+- [Methods](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture4-methods.pdf)
+- [Single dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture5-arrays.pdf)
 - [Two dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture6-ndarrays.pdf)
-- [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture7-objects.pdf)
+<!-- [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture7-objects.pdf)
 - [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture8-thinkingoo.pdf)
 - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture9-polymorphism.pdf)
 - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture10-interfaces.pdf)
@@ -75,18 +75,18 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 The course schedule is tentative and *will* be adjusted along the way.
 
 ### Part 1: Fundamentals of Programming
-| Lecture | Date       | Topic                                                               | Chapter | Slides                                                                                                          |
-| ------- | ---------- | ------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------- |
-| 01      | 09/03/2020 | Introduction to computers, programs and Java, command line basics   | 1       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture1-welcome.pdf) |
-| 02      | 09/08/2020 | Primitive data types, program structure, control flow, input/output | 2-3     | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture2-intro.pdf)   |
-| 03      | 09/10/2020 | Mathematical functions, characters, strings, looping                | 4-5     | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture3-math.pdf)    |
-|         | 09/15/2020 | Hands on                                                            |         |                                                                                                                 |
-| 04      | 09/17/2020 | Methods                                                             | 6       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture4-methods.pdf) |
-| 05      | 09/22/2020 | Single dimensional arrays                                           | 7       |                                                                                                                 |
-| 06      | 09/24/2020 | Two dimensional arrays                                              | 8       |                                                                                                                 |
-|         | 09/29/2020 | Hands on                                                            |         |                                                                                                                 |
-|         | 10/01/2020 | Project 1 kickoff                                                   |         |                                                                                                                 |
-|         | 10/06/2020 | Overivew                                                            | 1-8     |                                                                                                                 |
+| Lecture | Date       | Topic                                                               | Chapter | Slides                                                                                                           |
+| ------- | ---------- | ------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------- |
+| 01      | 09/03/2020 | Introduction to computers, programs and Java, command line basics   | 1       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture1-welcome.pdf)  |
+| 02      | 09/08/2020 | Primitive data types, program structure, control flow, input/output | 2-3     | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture2-intro.pdf)    |
+| 03      | 09/10/2020 | Mathematical functions, characters, strings, looping                | 4-5     | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture3-math.pdf)     |
+|         | 09/15/2020 | Hands on                                                            |         |                                                                                                                  |
+| 04      | 09/17/2020 | Methods                                                             | 6       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture4-methods.pdf)  |
+| 05      | 09/22/2020 | Single dimensional arrays                                           | 7       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture5-arrays.pdf)   |
+| 06      | 09/24/2020 | Two dimensional arrays                                              | 8       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture6-ndarrays.pdf) |
+|         | 09/29/2020 | Hands on                                                            |         |                                                                                                                  |
+|         | 10/01/2020 | Project 1 kickoff                                                   |         |                                                                                                                  |
+|         | 10/06/2020 | Overivew                                                            | 1-8     |                                                                                                                  |
 
 ### Part 2: Object oriented programming and design
 | Lecture | Date       | Topic                    | Chapter | Slides |
@@ -128,3 +128,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 0      | 09/03/2020 | 09/08/2020 | [Assignment 0](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Assignment0.pdf)                                                                                                                              |
 | 1      | 09/10/2020 | 09/15/2020 | [Assignment 1](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Assignment1.pdf)                                                                                                                              |
 | 2      | 09/17/2020 | 09/22/2020 | [Assignment 2](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Assignment2.pdf) [ASCII Art](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2020/master/assignment/Assignment2.txt) |
+| 3      | 09/24/2020 | 09/29/2020 | [Assignment 3](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Assignment3.pdf)                                                                                                                              |
