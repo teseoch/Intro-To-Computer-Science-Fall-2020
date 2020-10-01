@@ -85,7 +85,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 05      | 09/22/2020 | Single dimensional arrays                                           | 7       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture5-arrays.pdf)   |
 | 06      | 09/24/2020 | Two dimensional arrays                                              | 8       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture6-ndarrays.pdf) |
 |         | 09/29/2020 | Hands on                                                            |         |                                                                                                                  |
-|         | 10/01/2020 | Project 1 kickoff                                                   |         | [Project](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Project.pdf)      |
+|         | 10/01/2020 | Project 1 kickoff                                                   |         | [Project](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/project.pdf)      |
 |         | 10/06/2020 | Overivew                                                            | 1-8     |                                                                                                                  |
 
 ### Part 2: Object oriented programming and design
@@ -130,4 +130,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 1      | 09/10/2020 | 09/15/2020 | [Assignment 1](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Assignment1.pdf)                                                                                                                              |
 | 2      | 09/17/2020 | 09/22/2020 | [Assignment 2](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Assignment2.pdf) [ASCII Art](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2020/master/assignment/Assignment2.txt) |
 | 3      | 09/24/2020 | 09/29/2020 | [Assignment 3](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Assignment3.pdf)                                                                                                                              |
-| 4      | 10/01/2020 | 10/13/2020 | [Project](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/Project.pdf)                                                                                                                                       |
+| 4      | 10/01/2020 | 10/13/2020 | [Project](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/assignment/project.pdf)                                                                                                                                       |
